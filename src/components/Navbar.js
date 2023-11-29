@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <div className="bg-gray-400 flex justify-between p-5 items-center">
         <div className="flex space-x-5 md:space-x-8 items-center md:ml-14  ">
-          <h2 className="font-bold md:text-2xl">LOGO</h2>
+          <h2 className="font-bold md:text-2xl">RentSpot</h2>
           <Link className="md:text-lg">Home</Link>
         </div>
         <div className="space-x-4 md:space-x-6 md:mr-14">
